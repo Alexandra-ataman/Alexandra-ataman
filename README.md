@@ -9,7 +9,7 @@
 </p>
 
 <a href="#Alexandra-ataman-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexandra-ataman9&show_icons=true" alt="Alexandra-ataman" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexandra-ataman&show_icons=true" alt="Alexandra-ataman" align="right" />
 </a>
 
 - :house: I'm currently living in Saint-Petersburg, Russia.
