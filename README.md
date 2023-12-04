@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Aleksandra</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Alexandra</h1>
 <p align="left">
   <a href="https://github.com/Alexandra-ataman">
     <img src="https://komarev.com/ghpvc/?username=Alexandra-ataman" alt="page views">
