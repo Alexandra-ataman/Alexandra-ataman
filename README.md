@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Alexandra-ataman&show_icons=true" alt="Alexandra-ataman" align="right" />
 </a>
 
-- :house: I'm currently living in Saint-Petersburg, Russia.
 - :computer: I'm currently working as a QA Engineer.
 - :coffee: I'm coffeer.
 
